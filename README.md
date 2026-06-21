@@ -1,23 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:6A82FB,100:FC5C7D&height=200&section=header&text=Vaibhav%20Beladiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,50:7C3AED,100:38BDF8&height=230&section=header&text=Vaibhav%20Beladiya&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCS+(AI)+Student+%F0%9F%8E%93;Java+%26+Full+Stack+Developer+%E2%98%95;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+Something+New+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=MCS+(AI)+Student+%F0%9F%8E%93;Java+%26+Full+Stack+Developer+%E2%98%95;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Coffee+Into+Code+%E2%98%95%F0%9F%92%BB" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-beladiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bvm_im/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<a href="https://linkedin.com/in/vaibhav-beladiya"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://leetcode.com/u/bvm_im/"><img src="https://img.shields.io/badge/-LeetCode-1a1b27?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-1a1b27?style=flat-square&logo=github&logoColor=ffffff"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
 
+<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
 <table align="center">
 <tr>
@@ -39,129 +43,161 @@
 
 <div align="center">
 
-🚀 &nbsp; Building **AI-powered applications** &nbsp;|&nbsp; 💻 &nbsp; Becoming a **Full Stack Developer** &nbsp;|&nbsp; 📊 &nbsp; Mastering **DSA**
+🚀 Building **AI-powered apps** &nbsp;•&nbsp; 💻 Becoming a **Full Stack Dev** &nbsp;•&nbsp; 📊 Mastering **DSA**
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 🛠️ Tech Stack
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
 <div align="center">
 
-**Languages**
+**🔤 Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark&perline=6"/>
+<br><br>
 
-**Frontend**
+**🎨 Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&perline=6"/>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap&theme=dark&perline=6"/>
+<br><br>
 
-**Backend & Database**
+**⚙️ Backend & Database**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb&theme=dark&perline=6"/>
+<br><br>
 
-**Tools & Platforms**
+**🧰 Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker&theme=dark&perline=6"/>
 
+<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&border_radius=12&bg_color=0,1a1b27,16161e&title_color=BB9AF7&icon_color=38BDF8&text_color=C0CAF5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=12&bg_color=0,1a1b27,16161e&title_color=BB9AF7&text_color=C0CAF5"/>
 
 <br><br>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&border_radius=12&background=1A1B27,16161E&ring=7C3AED&fire=38BDF8&currStreakLabel=38BDF8"/>
 
+<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 📈 Contribution Graph
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Contribution%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1b27&color=38BDF8&line=BB9AF7&point=ffffff&hide_border=true&area=true"/>
 </div>
 
 <br>
 
-## 🐍 Contribution Snake
-
 <div align="center">
+
+🐍 **Contribution Snake**
+
 <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+<sub>💡 Set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> once to make this animate automatically.</sub>
+
+<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
-> 💡 *Set up the [snk GitHub Action](https://github.com/Platane/snk) once to make this snake animate automatically.*
-
 <br>
-
-## 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Achievements&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+<br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 🌟 Featured Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🏛️ **[Government Scheme Finder](https://github.com/YOUR_USERNAME)** | AI-powered platform to discover government schemes based on eligibility | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🤖 **[AI PDF Chat Assistant](https://github.com/YOUR_USERNAME)** | RAG-based chatbot that answers questions from uploaded PDFs | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) |
-| 📈 **[Expense Tracker](https://github.com/YOUR_USERNAME)** | Track spending, visualize expenses, and manage budgets | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| ✅ **[Habit Tracker](https://github.com/YOUR_USERNAME)** | Modern habit tracking app with analytics and heatmaps | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🏛️ **[Government Scheme Finder](https://github.com/YOUR_USERNAME)** | AI-powered platform to discover government schemes based on eligibility | ![React](https://img.shields.io/badge/-React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB) |
+| 🤖 **[AI PDF Chat Assistant](https://github.com/YOUR_USERNAME)** | RAG-based chatbot that answers questions from uploaded PDFs | ![FastAPI](https://img.shields.io/badge/-FastAPI-1a1b27?style=flat-square&logo=fastapi&logoColor=009688) ![LangChain](https://img.shields.io/badge/-LangChain-1a1b27?style=flat-square) |
+| 📈 **[Expense Tracker](https://github.com/YOUR_USERNAME)** | Track spending, visualize expenses, and manage budgets | ![React](https://img.shields.io/badge/-React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-1a1b27?style=flat-square&logo=node.js&logoColor=339933) |
+| ✅ **[Habit Tracker](https://github.com/YOUR_USERNAME)** | Modern habit tracking app with analytics and heatmaps | ![React](https://img.shields.io/badge/-React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=47A248) |
 
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
-## 🎯 Current Goals
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Current%20Goals&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+</div>
 
-- 🧩 Master **Data Structures & Algorithms**
-- 🤖 Learn **Advanced AI & Machine Learning**
-- ☕ Become strong in **Java Backend**
-- ⚛️ Build **production-ready React** projects
-- 🌐 Develop **full stack applications**
-- 📚 Learn something **new every day**
+- [ ] 🧩 Master **Data Structures & Algorithms**
+- [ ] 🤖 Learn **Advanced AI & Machine Learning**
+- [ ] ☕ Become strong in **Java Backend**
+- [ ] ⚛️ Build **production-ready React** projects
+- [ ] 🌐 Develop **full stack applications**
+- [x] 📚 Learn something **new every day**
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+</div>
 
 <br>
 
-## 📚 Coding Profile
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Coding%20Profile&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+
 <a href="https://leetcode.com/u/bvm_im/">
-<img src="https://leetcard.jacoblin.cool/bvm_im?theme=dark&font=Poppins&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/bvm_im?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </a>
-</div>
 
-<br>
-
-## 💡 Quote of the Day
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<br><br>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
 <br>
 
 <div align="center">
+
+💡 **Quote of the Day**
+<br><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<br><br>
 
 ### 🌐 Let's Connect & Build Something Awesome Together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-beladiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/bvm_im/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<a href="https://linkedin.com/in/vaibhav-beladiya"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://leetcode.com/u/bvm_im/"><img src="https://img.shields.io/badge/-LeetCode-1a1b27?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-1a1b27?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC5C7D,50:6A82FB,100:36BCF7&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:7C3AED,100:FF6EC7&height=150&section=footer"/>
 
 </div>

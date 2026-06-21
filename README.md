@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=About%20Me&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=About%20Me&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <table align="center">
@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Tech%20Stack&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Tech%20Stack&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=GitHub%20Analytics&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=GitHub%20Analytics&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -101,7 +101,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Contribution%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Contribution%20Activity&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -125,7 +125,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Achievements&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Achievements&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -137,7 +137,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Featured%20Projects&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Featured%20Projects&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 <div align="center">
@@ -155,7 +155,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Current%20Goals&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Current%20Goals&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 </div>
 
 - [ ] 🧩 Master **Data Structures & Algorithms**
@@ -172,7 +172,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=55&section=header&text=Coding%20Profile&fontSize=22&fontColor=ffffff&fontAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Coding%20Profile&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 
 <a href="https://leetcode.com/u/bvm_im/">
 <img src="https://leetcard.jacoblin.cool/bvm_im?theme=dark&font=Fira%20Code&ext=heatmap"/>
@@ -186,13 +186,13 @@
 
 <div align="center">
 
-💡 **Quote of the Day**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Quote%20of%20the%20Day&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 <br><br>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
 <br><br>
 
-### 🌐 Let's Connect & Build Something Awesome Together!
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:38BDF8&height=65&text=Let%27s%20Connect&fontSize=20&fontColor=ffffff&fontAlignY=50"/>
 
 <a href="https://linkedin.com/in/vaibhav-beladiya"><img src="https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://leetcode.com/u/bvm_im/"><img src="https://img.shields.io/badge/-LeetCode-1a1b27?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
